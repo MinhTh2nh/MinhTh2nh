@@ -13,29 +13,117 @@
 
 *   🌍  I'm based in Tp.HCM
 *   ✉️  You can contact me at [minhthanh5346@gmail.com](mailto:minhthanh5346@gmail.com)
-
+  
+  <div>
+    <h2 align=center>💡 Knowledge</h2>
+    <ul>
+      <li>
+        <h3>Languages</h3>
+        <a href="https://www.cplusplus.com" title="C++">
+          <img height="32" width="32"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+        </a>
+        <a href="https://www.javascript.com" title="JavaScript">
+          <img height="32" width="32"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        </a>
+        <a href="https://dart.dev" title="Dart">
+          <img height="32" width="32"
+            src="https://workiva.github.io/site/assets/img/language-logos/Dart.svg" />
+        </a>
+      </li>
+      <li>
+        <h3>Web Frameworks and Libraries</h3>
+        <ul>
+          <li>
+            <a href="https://reactjs.org" title="React.js">
+              <img height="32" width="32"
+                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+            </a>
+            <a href="https://expressjs.com" title="Express.js">
+              <img height="32" width="32"
+                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+            </a>
+            <a href="https://nodejs.org/en" title="Node.JS">
+              <img height="32" width="32"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+              </a>
+          </li>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <h3>Databases</h3>
+        <a href="https://www.mysql.com" title="MySQL">
+          <img height="32" width="32"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+        </a>
+        <a href="https://www.mongodb.com" title="MongoDB">
+          <img height="32" width="32"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+        </a>
+      </li>
+      <li>
+        <h3>Tools</h3>
+        <ul>
+          <li>
+            <h4>IDEs and Text Editors</h4>
+            <a href="https://code.visualstudio.com" title="Visual Studio Code">
+              <img height="32" width="32"
+                src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
+            </a>
+            <a href="https://developer.android.com/" title="Android Studio Code">
+              <img height="32" width="32"
+                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYqPshtcc72LfIovmL7yYsotZbN8e67Ck10WVIux1e6WjjkdgCFH5_KWRB9RfBKogO6vJgt1peMuuqEyUBsMv20xohGPyZFOBiuLU-Rn27Eq33biA0lUObGvd8ToAnNuygNSoRBpBmltRADd0vpaMXGklP7L_xB9LqIlZ1fjSN6vK1i2vc_0KP-aTo/s1600/Android%20Studio%20-%20Social.png" />
+            </a>
+          </li>
+          <li>
+            <h4>Version Control</h4>
+            <a href="https://git-scm.com" title="Git">
+              <img height="32" width="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+            </a>
+          </li>
+          <li>
+            <h4>Miscellaneous</h4>
+            <a href="https://www.postman.com" title="Postman">
+              <img height="32" width="32"
+                src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />
+            </a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
-
-
 <hr/>
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="MinhTh2nh">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhTh2nh&hide=c%23,powershell,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="MinhTh2nh">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=MinhTh2nh&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
 
+
+<div align="center">
+    <h2>📈 Some stats</h2>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to source">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhTh2nh&theme=tokyonight&layout=compact&hide_border=true" />
+    </a>
+    <br />
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to source">
+      <img align="left" width="48%"
+        src="https://github-readme-stats.vercel.app/api?username=MinhTh2nh&theme=tokyonight&show_icons=true&hide_border=true" />
+    </a>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to source">
+      <img align="right" width="48%"
+        src="https://streak-stats.demolab.com?user=MinhTh2nh&theme=tokyonight&hide_border=true" />
+    </a>
+    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to source">
+      <img width="100%"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=MinhTh2nh&theme=material-palenight&hide_border=true">
+    </a>
+  </div>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
