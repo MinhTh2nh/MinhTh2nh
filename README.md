@@ -73,7 +73,7 @@
                 src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
             </a>
             <a href="https://developer.android.com/" title="Android Studio Code">
-              <img height="32" width="32"
+              <img height="32" width="60"
                 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYqPshtcc72LfIovmL7yYsotZbN8e67Ck10WVIux1e6WjjkdgCFH5_KWRB9RfBKogO6vJgt1peMuuqEyUBsMv20xohGPyZFOBiuLU-Rn27Eq33biA0lUObGvd8ToAnNuygNSoRBpBmltRADd0vpaMXGklP7L_xB9LqIlZ1fjSN6vK1i2vc_0KP-aTo/s1600/Android%20Studio%20-%20Social.png" />
             </a>
           </li>
