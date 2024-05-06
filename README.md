@@ -37,19 +37,19 @@
         <ul>
           <li>
             <a href="https://reactjs.org" title="React.js">
-              <img height="32" width="32"
+              <img height="32" width="50"
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
             </a>
             <a href="https://flutter.dev/" title="Flutter">
-              <img height="32" width="32"
+              <img height="32" width="50"
                 src="https://res.cloudinary.com/teepublic/image/private/s--yFRff6n4--/c_crop,x_10,y_10/c_fit,h_1109/c_crop,g_north_west,h_1260,w_1050,x_-77,y_-76/co_rgb:ffffff,e_colorize,u_Misc:One%20Pixel%20Gray/c_scale,g_north_west,h_1260,w_1050/fl_layer_apply,g_north_west,x_-77,y_-76/bo_140px_solid_white/e_overlay,fl_layer_apply,h_1260,l_Misc:Art%20Print%20Bumpmap,w_1050/e_shadow,x_6,y_6/c_limit,h_1254,w_1254/c_lpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_auto:good:420,w_630/v1585726530/production/designs/8796655_0.jpg" />
             </a>
             <a href="https://expressjs.com" title="Express.js">
-              <img height="32" width="32"
+              <img height="32" width="50"
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
             </a>
             <a href="https://nodejs.org/en" title="Node.JS">
-              <img height="32" width="32"
+              <img height="32" width="50"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
             </a>
           </li>
@@ -59,11 +59,11 @@
       <li>
         <h3>Databases</h3>
         <a href="https://www.mysql.com" title="MySQL">
-          <img height="32" width="32"
+          <img height="32" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
         </a>
         <a href="https://www.mongodb.com" title="MongoDB">
-          <img height="32" width="32"
+          <img height="32" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
         </a>
       </li>
@@ -73,7 +73,7 @@
           <li>
             <h4>IDEs and Text Editors</h4>
             <a href="https://code.visualstudio.com" title="Visual Studio Code">
-              <img height="32" width="32"
+              <img height="32" width="50"
                 src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
             </a>
             <a href="https://developer.android.com/" title="Android Studio Code">
@@ -84,13 +84,13 @@
           <li>
             <h4>Version Control</h4>
             <a href="https://git-scm.com" title="Git">
-              <img height="32" width="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+              <img height="32" width="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
             </a>
           </li>
           <li>
             <h4>Miscellaneous</h4>
             <a href="https://www.postman.com" title="Postman">
-              <img height="32" width="32"
+              <img height="32" width="50"
                 src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />
             </a>
           </li>
