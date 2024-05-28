@@ -69,6 +69,14 @@
           <img height="32" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
         </a>
+           <a href="https://aws.amazon.com/vi/dynamodb/?gclid=CjwKCAjwgdayBhBQEiwAXhMxts7FUJXbVZB17I6112To1l_cT8eIXJ2geeKAxzHsNHctDS5Wx2oUGBoCjs0QAvD_BwE&trk=d9f149eb-d307-48cd-afb2-300e974f78cb&sc_channel=ps&ef_id=CjwKCAjwgdayBhBQEiwAXhMxts7FUJXbVZB17I6112To1l_cT8eIXJ2geeKAxzHsNHctDS5Wx2oUGBoCjs0QAvD_BwE:G:s&s_kwcid=AL!4422!3!589846470168!e!!g!!dynamodb!16178327443!136912446367" title="DyamoDB">
+          <img height="32" width="50"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+        </a>
+           <a href="https://firebase.google.com/" title="FireBase">
+          <img height="32" width="50"
+            src="https://skillicons.dev/icons?i=firebase" />
+        </a>
       </li>
       <li>
         <h3>Tools</h3>
