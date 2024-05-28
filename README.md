@@ -13,7 +13,10 @@
 
 *   🌍  I'm based in Tp.HCM
 *   ✉️  You can contact me at [minhthanh5346@gmail.com](mailto:minhthanh5346@gmail.com)
-  
+  <p align="center">
+  <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
+</p>
+
   <div>
     <h2 align=center>💡 Knowledge</h2>
     <ul>
