@@ -26,6 +26,7 @@
         Mobile
     </a>
     </h4>
+    </div>
   <div>
     <h2 align=center>💡 Knowledge</h2>
     <ul>
