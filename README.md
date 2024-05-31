@@ -20,6 +20,9 @@
     <a href="https://www.topcv.vn/xem-cv/UQIGUgtRAV9QWwQFVF5TAQUHXVMFBVYEUwMFUw29b7?ta_source=EditCVInAfterSaveCV" title="FrontEnd">
         FrontEnd
     </a>
+    <a href="https://www.topcv.vn/xem-cv/UQIGUgtRAV9QWwQFVF5TAQUHXVMFBVYEUwMFUw29b7?ta_source=EditCVInAfterSaveCV" title="FrontEnd">
+        Mobile
+    </a>
   <div>
     <h2 align=center>💡 Knowledge</h2>
     <ul>
