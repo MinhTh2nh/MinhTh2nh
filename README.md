@@ -16,6 +16,11 @@
 </p>
 
   <div>
+    <h3>My CV</h3>
+    <a href="https://www.topcv.vn/xem-cv/UQIGUgtRAV9QWwQFVF5TAQUHXVMFBVYEUwMFUw29b7?ta_source=EditCVInAfterSaveCV" title="FrontEnd">
+        
+    </a>
+
     <h2 align=center>💡 Knowledge</h2>
     <ul>
       <li>
