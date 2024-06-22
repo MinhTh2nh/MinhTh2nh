@@ -20,7 +20,7 @@
           <h4 align=center>💡  <a href="https://www.canva.com/design/DAGIBuZu5Yg/0IkV9kME_h9s53DJKlmuMw/edit?utm_content=DAGIBuZu5Yg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" title="FrontEnd">
         FrontEnd
     </a></h4>
-          <h4 align=center>💡  <a href="https://www.canva.com/design/DAGIBuZu5Yg/0IkV9kME_h9s53DJKlmuMw/edit?utm_content=DAGIBuZu5Yg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+          <h4 align=center>💡  <a href="https://www.canva.com/design/DAGI2kxJOLU/Y_9neMt8f_K0StZWtYgmNg/edit?utm_content=DAGI2kxJOLU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
         Mobile
     </a></h4>
   <div>
