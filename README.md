@@ -17,8 +17,8 @@
 
   <div>
     <h3>My CV</h3>
-      
-          <h4 align=center>💡  <a href="https://www.canva.com/design/DAGnA_MUD-k/Mc-F4O9bvDNBhnprwNlnfw/edit?utm_content=DAGnA_MUD-k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" title="FrontEnd">
+          <h4 align=center>💡  
+          <a href="https://www.canva.com/design/DAGnA_MUD-k/Mc-F4O9bvDNBhnprwNlnfw/edit?utm_content=DAGnA_MUD-k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" title="FrontEnd">
         FrontEnd
     </a></h4>
   <div>
